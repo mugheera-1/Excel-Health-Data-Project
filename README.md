@@ -1,24 +1,24 @@
-Pakistan Health Data Analysis
+**Pakistan Health Data Analysis**
 
-Project Overview
+**Project Overview**
 
 This project involves analyzing Pakistan's health data using Microsoft Excel. The main objective was to clean the raw data and use pivot tables to extract meaningful insights about the health metrics in Pakistan.
 
-Key Steps in the Project
-
-Data Cleaning:
+**Key Steps in the Project
+**
+**Data Cleaning:**
 
 Removed inconsistencies and handled missing data.
 
 Ensured the dataset was properly formatted for analysis.
 
-Pivot Tables:
+**Pivot Tables:**
 
 Created pivot tables to summarize and analyze the data effectively.
 
 Identified trends and patterns in health metrics.
 
-Insights Gained
+**Insights Gained**
 
 Key health statistics for Pakistan.
 
