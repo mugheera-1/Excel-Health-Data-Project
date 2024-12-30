@@ -6,26 +6,18 @@ This project involves analyzing Pakistan's health data using Microsoft Excel. Th
 
 ## Key Features
 
-**Data Cleaning:**
+- **Data Cleaning:**
+  - Removed inconsistencies and handled missing data.
+  - Ensured the dataset was properly formatted for analysis.
 
-Removed inconsistencies and handled missing data.
+- **Pivot Tables:**
+  - Created pivot tables to summarize and analyze the data effectively.
+  - Identified trends and patterns in health metrics.
 
-Ensured the dataset was properly formatted for analysis.
+- **Insights Gained**
+  - Key health statistics for Pakistan.
+  - Trends and distributions of health-related factors.
+  - Comparative analysis across various dimensions (e.g., regions, years).
 
-**Pivot Tables:**
-
-Created pivot tables to summarize and analyze the data effectively.
-
-Identified trends and patterns in health metrics.
-
-**Insights Gained**
-
-Key health statistics for Pakistan.
-
-Trends and distributions of health-related factors.
-
-Comparative analysis across various dimensions (e.g., regions, years).
-
-Tools Used
-
-Microsoft Excel: Data cleaning, pivot table creation, and analysis.
+- **Tools Used**
+  - Microsoft Excel: Data cleaning, pivot table creation, and analysis.
